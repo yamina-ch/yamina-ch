@@ -25,6 +25,8 @@
 </p>
 
 ---
+🌟 I regularly share my original projects and tutorials on Youtube channel and Codepen profile.
+🎨 I also enjoy watercolor and oil painting — a passion that inspires my visual design style. 
 
 ### ✨ What I do
 - Front-end with **HTML, CSS, JavaScript, Bootstrap** (responsive layouts + accessibility).
