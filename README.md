@@ -1,10 +1,6 @@
 <!-- HERO -->
-<div align="center">
-<img src="assets/hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
-" />
 
-  <img src="assets/hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
-</div>
+![Yamina — Web & Mobile Developer](./hero.gif)
 
 <h1 align="center">Hola, soy Yamina 👋</h1>
 
