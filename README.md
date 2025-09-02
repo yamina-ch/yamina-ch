@@ -1,6 +1,7 @@
 <!-- HERO -->
-
-                         ![Yamina — Web & Mobile Developer](./hero.gif)
+<p align="center">
+  <img src="./hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
+</p>
 
 <h1 align="center">Hola, soy Yamina 👋</h1>
 
@@ -13,8 +14,8 @@
   <a href="https://vermillion-praline-704a7c.netlify.app/" target="_blank">
     <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Notes-1f6feb?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
-  <a href="https://codepen.io/minay-ch/pen/QwjJpmY" target="_blank">
-    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Notes-1f6feb?style=for-the-badge&logo=netlify&logoColor=white">
+  <a href="https://codepen.io/minay-ch" target="_blank">
+    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank">
     <img alt="Google Play" src="https://img.shields.io/badge/Android-NoteMina-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
@@ -57,12 +58,10 @@
 ---
 
 ### 📫 Contacto
-- **Email:** yaminachbusiness@gmail.com
+- **Email:** yaminachbusiness@gmail.com  
 - **Soporte de plantillas:** https://vermillion-praline-704a7c.netlify.app/support
 
-<div align="center">
-  <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
-  <p align="center">
+<p align="center">
   <a href="https://codepen.io/minay-ch" target="_blank" title="CodePen">
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="48" />
   </a>
@@ -76,4 +75,6 @@
   </a>
 </p>
 
+<div align="center">
+  <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
 </div>
