@@ -54,11 +54,13 @@
   - **My github repositories -  projects)** · Aplicación de notas publicada en Google Play.  
   🔗  https://github.com/yamina-ch?tab=repositories
 
-🌎 Check out my portfolio
 
-I'm always working on something, and often too excited about it to stop and update my portfolio
 
-Feel free to reach out and see what I'm up to now 💬
+              🌎 Check out my portfolio
+              
+              I'm always working on something, and often too excited about it to stop and update my portfolio
+              
+              Feel free to reach out and see what I'm up to now 💬
 
 ---
 
