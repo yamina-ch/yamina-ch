@@ -1,6 +1,6 @@
 <!-- HERO -->
 
-![Yamina — Web & Mobile Developer](./hero.gif)
+                         ![Yamina — Web & Mobile Developer](./hero.gif)
 
 <h1 align="center">Hola, soy Yamina 👋</h1>
 
@@ -62,4 +62,18 @@
 
 <div align="center">
   <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
+  <p align="center">
+  <a href="https://codepen.io/minay-ch" target="_blank" title="CodePen">
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina en Google Play">
+    <img src="https://cdn.simpleicons.org/googleplay" alt="Google Play" width="48" />
+  </a>
+</p>
+
 </div>
