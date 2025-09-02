@@ -57,7 +57,7 @@
 ### 📫 Contact
 - **Email:** yaminachbusiness@gmail.com
 
-🌎 **Peek at my work**  
+🌎 **Check out my portfolio**  
 I’m always building something new—if you’re curious, reach out and ask what I’m working on now. 💬
 
 <!-- Social / platforms -->
