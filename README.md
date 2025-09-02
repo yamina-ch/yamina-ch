@@ -50,6 +50,9 @@
   🔗 https://vermillion-praline-704a7c.netlify.app/
 - **NoteMina (Android)** · Aplicación de notas publicada en Google Play.  
   🔗 https://play.google.com/store/apps/details?id=com.notemina.app
+  https://github.com/yamina-ch?tab=repositories
+  - **My github repositories -  projects)** · Aplicación de notas publicada en Google Play.  
+  🔗  https://github.com/yamina-ch?tab=repositories
 
 ---
 
