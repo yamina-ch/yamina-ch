@@ -1,13 +1,12 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" /> 
+  <img src="./hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Yamina 👋</h1>
+<h1 align="center">Hi, I'm Yamina 👋</h1>
 
 <p align="center">
-  Desarrolladora <b>Web & Mobile (Junior)</b> — combino <b>diseño</b> y <b>código</b> para crear interfaces limpias,
-  accesibles y con buena UX.
+  Junior <b>Web & Mobile Developer</b> — I blend <b>design</b> and <b>code</b> to build clean, accessible UIs with great UX.
 </p>
 
 <p align="center">
@@ -21,21 +20,21 @@
     <img alt="Google Play" src="https://img.shields.io/badge/Android-NoteMina-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@notemina-y5n" target="_blank">
-    <img alt="youtube" src="https://img.shields.io/badge/youtibe-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
 ---
 
-### ✨ Qué hago
-- Front-end con **HTML, CSS, JavaScript y Bootstrap** (maquetación responsive + accesibilidad).
-- Apps móviles con **Flutter/Dart** y **Android (Kotlin/Java)**.
-- Consumo de **APIs REST** y persistencia con **SQL/MongoDB**.
-- Deploy en **Netlify / GitHub Pages** y control de versiones con **Git/GitHub**.
+### ✨ What I do
+- Front-end with **HTML, CSS, JavaScript, Bootstrap** (responsive layouts + accessibility).
+- Mobile apps with **Flutter/Dart** and **Android (Kotlin/Java)**.
+- **REST APIs** consumption and data persistence with **SQL/MongoDB**.
+- Deploys on **Netlify / GitHub Pages** and version control with **Git/GitHub**.
 
 ---
 
-### 🧰 Tech stack (iconos)
+### 🧰 Tech stack (icons)
 <!-- Icons by https://skillicons.dev -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,linux,netlify&perline=11" />
@@ -45,44 +44,37 @@
 
 ---
 
-### 📌 Proyectos
-- **Notes – Demo Web** · App de notas con búsqueda y categorías.  
+### 📌 Projects
+- **Notes – Web Demo** · A notes app with search and categories.  
   🔗 https://vermillion-praline-704a7c.netlify.app/
-- **NoteMina (Android)** · Aplicación de notas publicada en Google Play.  
+- **NoteMina (Android)** · Notes app published on Google Play.  
   🔗 https://play.google.com/store/apps/details?id=com.notemina.app
-  https://github.com/yamina-ch?tab=repositories
-  - **My github repositories -  projects)** · Aplicación de notas publicada en Google Play.  
-  🔗  https://github.com/yamina-ch?tab=repositories
+- **My GitHub repositories** · Explore more experiments and mini-projects.  
+  🔗 https://github.com/yamina-ch?tab=repositories
 
-     
 ---
 
-### 📫 Contacto
+### 📫 Contact
 - **Email:** yaminachbusiness@gmail.com
 
-  🌎 Check out my portfolio
-              
-     I'm always working on something, and often too excited about it to stop and update my portfolio
-              
-     Feel free to reach out and see what I'm up to now 💬
- 
+🌎 **Peek at my work**  
+I’m always building something new—if you’re curious, reach out and ask what I’m working on now. 💬
 
-<!-- Redes sociales / plataformas -->
+<!-- Social / platforms -->
 <p align="center">
   <a href="https://codepen.io/minay-ch" target="_blank" title="CodePen">
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-   <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina en Google Play">
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina on Google Play">
     <img src="https://cdn.simpleicons.org/googleplay/34a853" alt="Google Play" height="40" />
   </a>
 </p>
 
 <div align="center">
-  <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
+  <sub>Always learning and happy to collaborate on cool ideas. 💙</sub>
 </div>
-
