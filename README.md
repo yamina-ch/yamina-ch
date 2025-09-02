@@ -59,7 +59,7 @@
 
 ### 📫 Contacto
 - **Email:** yaminachbusiness@gmail.com  
-- **Soporte de plantillas:** https://vermillion-praline-704a7c.netlify.app/support
+
 
 <p align="center">
   <a href="https://codepen.io/minay-ch" target="_blank" title="CodePen">
