@@ -56,9 +56,9 @@
 
      🌎 Check out my portfolio
               
-              I'm always working on something, and often too excited about it to stop and update my portfolio
+     I'm always working on something, and often too excited about it to stop and update my portfolio
               
-              Feel free to reach out and see what I'm up to now 💬
+     Feel free to reach out and see what I'm up to now 💬
 
 ---
 
