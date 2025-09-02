@@ -68,8 +68,7 @@ I’m always building something new—if you’re curious, reach out and ask wha
   <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
-</a>
-
+  </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina on Google Play">
     <img src="https://cdn.simpleicons.org/googleplay/34a853" alt="Google Play" height="40" />
