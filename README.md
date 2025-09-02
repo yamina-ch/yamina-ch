@@ -74,9 +74,10 @@
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" />
-  </a>
+ <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
+</a>
+
   &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina en Google Play">
     <img src="https://cdn.simpleicons.org/googleplay/34a853" alt="Google Play" height="40" />
