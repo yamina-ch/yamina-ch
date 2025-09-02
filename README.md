@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://vermillion-praline-704a7c.netlify.app/" target="_blank">🔴 Demo: Notes (web)</a> ·
+  <a href="https://codepen.io/minay-ch/pen/QwjJpmY/" target="_blank">🔴 CodePen Demo: Notes (web)</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank">📱 NoteMina en Google Play</a>
 </p>
 
@@ -30,6 +31,7 @@
 ### ✨ Proyectos destacados
 - **Notes – Demo Web** → App de notas con búsqueda y categorías.  
   🔗 https://vermillion-praline-704a7c.netlify.app/
+  🔗 https://codepen.io/minay-ch/pen/QwjJpmY
 - **NoteMina (Android)** → Aplicación de notas publicada.  
   🔗 https://play.google.com/store/apps/details?id=com.notemina.app
 
@@ -43,8 +45,9 @@
 ---
 
 ### 📬 Contacto
-**Email:** daniellezina56@gmail.com  
-**Soporte de plantillas:** https://vermillion-praline-704a7c.netlify.app/support
+**Email:** yaminachbusiness@gmail.com  
+
+
 
 ---
 
