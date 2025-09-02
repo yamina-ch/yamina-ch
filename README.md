@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
+  <img src="./hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" /> 
 </p>
 
 <h1 align="center">Hola, soy Yamina 👋</h1>
