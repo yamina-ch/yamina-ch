@@ -1,6 +1,7 @@
 <!-- HERO -->
 <div align="center">
-  <img width="220" height="198" alt="imagen" src="https://br.pinterest.com/pin/183029172351209535/" />
+  <img width="220" height="198" alt="imagen" src="<img width="500" height="281" alt="imagen" src="https://github.com/user-attachments/assets/f04a85fd-1f1f-4680-86bc-eb465702e47a" />
+" />
 
   <img src="assets/hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
 </div>
