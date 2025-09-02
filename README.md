@@ -1,54 +1,64 @@
+<!-- HERO -->
+<div align="center">
+  <!-- Sube un GIF o imagen ancho 1600x400 aprox. a /assets/hero.gif -->
+  <img src="assets/hero.gif" alt="Yamina — Web & Mobile Developer" width="100%" />
+</div>
+
 <h1 align="center">Hola, soy Yamina 👋</h1>
+
 <p align="center">
-  Desarrolladora <b>Web & Mobile (Junior)</b> — me gusta unir <b>diseño</b> y <b>código</b> para crear interfaces limpias, accesibles y con buena UX.
+  Desarrolladora <b>Web & Mobile (Junior)</b> — combino <b>diseño</b> y <b>código</b> para crear interfaces limpias,
+  accesibles y con buena UX.
 </p>
 
 <p align="center">
-  <a href="https://vermillion-praline-704a7c.netlify.app/" target="_blank">🔴 Demo: Notes (web)</a> ·
-  <a href="https://codepen.io/minay-ch/pen/QwjJpmY/" target="_blank">🔴 CodePen Demo: Notes (web)</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank">📱 NoteMina en Google Play</a>
+  <a href="https://vermillion-praline-704a7c.netlify.app/" target="_blank">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Notes-1f6feb?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Android-NoteMina-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🧭 En qué me enfoco
-- Front-end con **HTML, CSS, JavaScript, Bootstrap** (maquetación responsive, accesibilidad, performance).
+### ✨ Qué hago
+- Front-end con **HTML, CSS, JavaScript y Bootstrap** (maquetación responsive + accesibilidad).
 - Apps móviles con **Flutter/Dart** y **Android (Kotlin/Java)**.
-- Consumo de **APIs REST** y persistencia básica (**SQLite / MySQL / PostgreSQL / MongoDB**).
-- Deploy estático en **Netlify / GitHub Pages** y control de versiones con **Git/GitHub**.
+- Consumo de **APIs REST** y persistencia con **SQL/MongoDB**.
+- Deploy en **Netlify / GitHub Pages** y control de versiones con **Git/GitHub**.
 
 ---
 
-### 🛠️ Tecnologías que uso
-**Web:** HTML5 · CSS3 (Flexbox/Grid) · JS (vanilla) · Bootstrap  
-**Mobile:** Flutter/Dart · Android (Kotlin/Java)  
-**Backend (aprendiendo/uso básico):** PHP/Laravel · .NET/C# · Python  
-**Datos:** SQL (MySQL, PostgreSQL, SQLite) · MongoDB · Oracle  
-**Otros:** Git · Linux · RESTful API
+### 🧰 Tech stack (iconos)
+<!-- Icons by https://skillicons.dev -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,linux,netlify&perline=11" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,php,laravel,python,mysql,postgres,sqlite,mongodb&perline=11" />
+</p>
 
 ---
 
-### ✨ Proyectos destacados
-- **Notes – Demo Web** → App de notas con búsqueda y categorías.  
+### 📌 Proyectos
+- **Notes – Demo Web** · App de notas con búsqueda y categorías.  
   🔗 https://vermillion-praline-704a7c.netlify.app/
-  🔗 https://codepen.io/minay-ch/pen/QwjJpmY
-- **NoteMina (Android)** → Aplicación de notas publicada.  
+- **NoteMina (Android)** · Aplicación de notas publicada en Google Play.  
   🔗 https://play.google.com/store/apps/details?id=com.notemina.app
 
 ---
 
-### 📦 Lo que entrego
-- Código claro, comentado y organizado.
-- Diseño **responsive** y buenas prácticas de **accesibilidad**.
-- Deploy listo para compartir (Netlify / Pages) y guía de uso en README.
+### 🧾 Lo que entrego
+- Código claro y organizado.
+- Diseño **responsive** + buenas prácticas de **accesibilidad**.
+- Deploy listo para compartir y README con guía de uso.
 
 ---
 
-### 📬 Contacto
-**Email:** yaminachbusiness@gmail.com  
+### 📫 Contacto
+- **Email:** TU_CORREO
+- **Soporte de plantillas:** https://vermillion-praline-704a7c.netlify.app/support
 
-
-
----
-
-<p align="center">Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</p>
+<div align="center">
+  <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
+</div>
