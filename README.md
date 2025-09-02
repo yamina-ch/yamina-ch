@@ -20,6 +20,9 @@
   <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank">
     <img alt="Google Play" src="https://img.shields.io/badge/Android-NoteMina-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
+  <a href="https://www.youtube.com/@notemina-y5n" target="_blank">
+    <img alt="youtube" src="https://img.shields.io/badge/youtibe-34a853?style=for-the-badge&logo=googleplay&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -57,25 +60,27 @@
 
 ---
 
+---
+
 ### 📫 Contacto
 - **Email:** yaminachbusiness@gmail.com  
 
-
+<!-- Redes sociales / plataformas -->
 <p align="center">
   <a href="https://codepen.io/minay-ch" target="_blank" title="CodePen">
-    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="48" />
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" />
   </a>
- 
-  &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina en Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay" alt="Google Play" width="48" />
-  </a>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@notemina-y5n" target="_blank" title="YouTube">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="48" />
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.notemina.app" target="_blank" title="NoteMina en Google Play">
+    <img src="https://cdn.simpleicons.org/googleplay/34a853" alt="Google Play" height="40" />
   </a>
 </p>
 
 <div align="center">
   <sub>Siempre aprendiendo y abierta a colaborar en ideas chulas. 💙</sub>
 </div>
+
